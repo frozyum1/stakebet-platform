@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://frozyum1.github.io/stakebet-platform/sitemap.xml
+Sitemap: https://frozyum1.github.io/ludocore/sitemap.xml
